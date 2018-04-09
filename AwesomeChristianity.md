@@ -1,51 +1,86 @@
 
 #### Online Bible Resources
 [Blueletter Bible](https://www.blueletterbible.org/)
+
 [Bible Gateway](https://www.biblegateway.com/)
+
 [Bible StudyTools](https://www.biblestudytools.com/)
+
 [Study Light](https://www.studylight.org/)
+
 [Bible.com](https://www.bible.com/versions)
+
 [Bible Hub](http://biblehub.com/)
+
 [Lumina Bible](https://lumina.bible.org/)
+
 
 
 #### Sermons Repository
 [Sermonindex](http://www.sermonindex.net/)
+
 [Sermon Audio](http://www.sermonaudio.com/)
+
 [One Place](http://www.OnePlace.com/)
+
 [Sermon Central](http://www.sermoncentral.com/)
+
 [Desiring God](http://www.desiringgod.org/)
+
 [Audio Treasure](http://www.audiotreasure.com/)
+
 [Sermon Search](http://www.sermonsearch.com/)
+
 [Cross Walk](http://www.crosswalk.com/)
+
 [Grace To You](http://www.gty.org/)
+
 [Christian Fellowship](https://www.cfcindia.com/)
+
 [Sunday Adelaja](http://sundayadelajablog.com/)
+
 
 
 
 #### Christian News
 [Christian News](http://christiannews.net/)
+
 [Christian Post](http://www.christianpost.com/)
+
 [ChristianityToday](http://www.christianitytoday.com)
+
 
 
 #### Presentation Softwares For Church
 
 [EasyWorship](https://www.easyworship.com/)
+
 [FreeWorship](https://www.freeworship.org.uk/)
+
 [SlideDog](https://slidedog.com/)
+
 [OpenLP](http://openlp.org/)
+
 [VideoPsalm ](http://myvideopsalm.weebly.com/)
+
 [Quela](http://quelea.org/)
+
 [ZionWorx](http://www.zionworx.org.uk/features.htm)
+
 [OpenSong](www.opensong.org/)
+
 [Worship Extreme](https://www.worshipextreme.com/)
+
 [MediaShout](www.mediashout.com/)
+
 [EasySlides](https://www.easyslides.com/)
+
 [ProPresenter](https://renewedvision.com/propresenter/)
+
 [SongPro](www.creationsoftware.com/)
+
 [Lyricue](https://www.lyricue.org/)
+
 
 
 
